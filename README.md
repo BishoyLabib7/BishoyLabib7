@@ -1,5 +1,4 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Bishoy Labib</h1>
 <h3 align="center">A frontend developer from Egypt</h3>
 
@@ -9,11 +8,13 @@
 
 - 💬 Ask me about **javascript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/bishoy-labib-2888a0232/**
+- 📫 How to reach me **bishoylabib78@gmail.com**
 
-<h3 align="left">Connect with me: bishoylabib78@gmail.com</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/bishoy-labib-2888a0232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishoy-labib-2888a0232" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bishoy78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bishoy78" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bishoylabib78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bishoylabib78" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
