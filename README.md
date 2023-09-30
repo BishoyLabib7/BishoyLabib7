@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **javascript**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **javascript**
 
-- 📫 How to reach me **bishoylabib78@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/bishoy-labib-2888a0232/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: bishoylabib78@gmail.com</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/bishoy78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bishoy78" height="30" width="40" /></a>
 </p>
