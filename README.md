@@ -5,7 +5,7 @@
 
 
 
-## <picture><img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/about_me.gif" width = 50px></picture> About me
 
 <br><br>
 <a target="_blank" align="center">
