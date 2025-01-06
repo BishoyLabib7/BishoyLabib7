@@ -8,7 +8,7 @@
 ## <picture><img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/about_me.gif" width = 50px></picture> About me
 
 <br><br>
-<a target="_blank" align="center">
+<a align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
@@ -25,7 +25,7 @@
 
 ### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/Programming_Languages.gif?raw=true" width = 50px> </picture> Programming languages
 
-<p > 
+<p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
@@ -46,7 +46,7 @@
 
 ### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
 
-<p > 
+<p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -67,7 +67,7 @@
 
 ### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/Software_Tools.gif?raw=true" width = 50px> </picture> Software & Tools
 
-<p >
+<p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -82,7 +82,7 @@
 
 ### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/IDEs.gif?raw=true" width = 50px> </picture> IDEs
 
-<p >
+<p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -93,7 +93,7 @@
 
 ### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/CP_PS.gif?raw=true" width = 50px> </picture> Competitive Programming & Problem Solving
 
-<p >
+<p align="center">
   &emsp;
     <a href="https://codeforces.com/profile/bishoy78"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
@@ -102,7 +102,7 @@
 
 ### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/OS.gif?raw=true" width = 50px> </picture> Operating Systems
 
-<p>
+<p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
