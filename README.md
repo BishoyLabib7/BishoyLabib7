@@ -8,9 +8,7 @@
 ## <picture><img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 <br><br>
-
-
-  <img align="right" top="200" button="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="200" height=25px, width=160px alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
 
