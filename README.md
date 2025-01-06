@@ -2,14 +2,14 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Frontend+Developer">
 </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 ## <picture><img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 <br><br>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 - :school: I am a `Senior` at `Faculty of Computers & Informatics`.
 - :technologist: I love using Software as a solution for every `Problem`.
