@@ -1,10 +1,11 @@
 <h1 align="center">Hi , I'm Bishoy Labib <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Frontend+Developer">
-</p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+</p>
+
 
 ## <picture><img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
