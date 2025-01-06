@@ -3,9 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Frontend+Developer"></a>
 </p>
 
-<br>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 <br><br>
 
@@ -22,7 +20,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Programming languages
+### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/Programming_Languages.gif?raw=true" width = 50px> </picture> Programming languages
 
 <p > 
   &emsp; 
@@ -43,9 +41,9 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
+### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
 
-<p align="center"> 
+<p > 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -64,9 +62,9 @@
    </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Software & Tools
+### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/Software_Tools.gif?raw=true" width = 50px> </picture> Software & Tools
 
-<p align="center">
+<p >
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -79,9 +77,9 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> IDEs
+### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/IDEs.gif?raw=true" width = 50px> </picture> IDEs
 
-<p align="center">
+<p >
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -90,18 +88,18 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px> </picture> Competitive Programming & Problem Solving
+### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/CP_PS.gif?raw=true" width = 50px> </picture> Competitive Programming & Problem Solving
 
-<p align="center">
+<p >
   &emsp;
     <a href="https://codeforces.com/profile/bishoy78"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
     <a href="https://www.leetcode.com/bishoylabib78"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> </picture> Operating Systems
+### <picture> <img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/OS.gif?raw=true" width = 50px> </picture> Operating Systems
 
-<p align="center">
+<p>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
@@ -113,12 +111,12 @@
 
 ---
 
-<p align = "center">
+<p>
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
