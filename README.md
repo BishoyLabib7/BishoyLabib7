@@ -6,11 +6,10 @@
 
 
 ## <picture><img src = "https://github.com/BishoyLabib7/BishoyLabib7/blob/main/about_me.gif" width = 50px></picture> About me
-<br>
 <a align="center">
   <img align="right" top="500" height="250" width="330" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhMzZwemZnOG1zcjR1bW5hdXN0dWgwYmxseGxyNzZjb3Fjdm1kayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 </a>
-
+<br>
 
 
 - :school: I am a `Senior` at `Faculty of Computers & Informatics`.
