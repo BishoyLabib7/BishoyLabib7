@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,supabase,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,nextjs,supabase,mysql" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,webstorm,atom" />
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,atom" />
   </a>
 </p>
 
